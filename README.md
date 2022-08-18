@@ -1,10 +1,10 @@
 ## Hi 👋, I'm [Ankit Sharma!](https://www.linkedin.com/in/ankit-sm/)
 
-A Third Year (2019 - 23) Computer Engineering Student at Army Institute of Technology, Pune. 🏫<br/>
+A Final Year (2019 - 23) Computer Engineering Student at Army Institute of Technology, Pune. 🏫<br/>
 I am a Competitive Programmer, and have deep intrest in Data Structures and Algorithms. I have good problem solving skills, and love to solve challenging problems.<br/>
 
 ### Competitive Programming
-<a href="https://codeforces.com/profile/_Mafia">
+<a href="https://codeforces.com/profile/ankit-sm">
   <img align="left" alt="Ankit's CodeForces" height="45px" width="45px" src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3521352-2944796.png" />
 </a>
 <a href="https://www.codechef.com/users/mafia_sm">
@@ -30,14 +30,3 @@ I am a Competitive Programmer, and have deep intrest in Data Structures and Algo
 <code><img height="40px" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <br />
 <br />
-
-
-### Connect with me
-<a href="https://www.linkedin.com/in/ankit-sm/">
-  <img align="left" alt="Ankit's LinkedIn"  height="40px" width="40px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
-</a>
-<a href="https://www.facebook.com/ankit.sharma.sm/">
-  <img align="left" alt="Ankit's FaceBook" height="40px" width="40px" src="https://image.flaticon.com/icons/png/512/124/124010.png" />
-</a>
-<br/>
-<br/>
